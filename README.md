@@ -1,6 +1,6 @@
 # docker-maven-oraclejdk-on-alpine
 Docker of maven with alpine and glibc.
-This is fork from https://github.com/frol/docker-alpine-glibc
+This is a fork from https://github.com/frol/docker-alpine-glibc
 
 @Dockerhub: https://hub.docker.com/r/cashlez/alpine-glibc/
 
